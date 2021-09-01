@@ -1,6 +1,6 @@
-* Example of A/B Testing *
+#Example of A/B Testing 
 
-**Overview**
+##Overview
 
 This repository contains a notebook with a simple A/B Testing example.  The source of the notebook is  "A/B Testing for Data Science using Python – A Must-Read Guide for Data Scientists" by Shipra Saxena, available at the following link <https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/>.
 
